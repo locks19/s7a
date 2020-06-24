@@ -1,0 +1,145 @@
+#title {
+	color: #f40;
+	font-size: 60px;
+	font-family: "迷你简硬笔行书";
+	background-color:white;
+}
+#one {
+	font-family: "迷你简启体";
+	font-size:25px;
+	color: peru;
+	margin-right: 210px;
+	background-color:white;
+	border-radius: 12px;
+}
+#two {
+	font-family: "迷你简启体";
+	font-size:25px;
+	color: purple;
+	margin-right: 210px;
+	background-color:white;
+	border-radius: 12px;
+}
+#three {
+	font-family: "迷你简启体";
+	font-size:25px;
+	color: blue;
+	margin-right: 210px;
+	background-color:white;
+	border-radius: 12px;
+}
+#four {
+	font-family: "迷你简启体";
+	font-size:25px;
+	color: green;
+	margin-right: 210px;
+	background-color:white;
+	border-radius: 15px;
+}
+#one:hover {
+	color: red;
+	margin-right: 210px;
+	cursor: pointer;
+}
+#two:hover {
+	color: fuchsia;
+	margin-right: 210px;
+	cursor: pointer;
+}
+#three:hover {
+	color: deepskyblue;
+	margin-right: 210px;
+	cursor: pointer;
+}
+#four:hover {
+	color: lime;
+	margin-right: 210px;
+	cursor: pointer;
+}
+#title1 {
+	margin-left: 230px;
+}
+a {
+	text-decoration: none;
+}
+#shezhi {
+	float: right;
+	font-size: 20px;
+	margin-top: 5px;
+	text-decoration: none;
+	color:black;
+}
+#shezhi:hover {
+	float: right;
+	font-size: 20px;
+	margin-top: 5px;
+	text-decoration: none;
+	color:#6c6c6c;
+	
+}
+#img {
+	background: no-repeat url(图片/timg.jpg);
+	background-size: 100% 100%;
+	width: 35px;
+	height: 35px;
+	float: right;
+}
+#windows{
+	width:400px;
+	height:200px;
+	border:1px solid black;
+	margin-top:170px;
+	background-color:lightgrey;
+	box-shadow:5px 5px 12px grey;
+	display:block;
+}
+#windows_title{
+	border-bottom:1px solid black;
+	background-color:skyblue;
+}
+#back{
+	float:right;
+	padding-left:12px;
+	padding-right:12px;
+	border-left:1px solid black;
+	cursor: pointer;
+}
+
+#back:hover{
+	float:right;
+	padding-left:12px;
+	padding-right:12px;
+	border-left:1px solid black;
+	background-color:red;
+	color:white;
+	cursor: pointer;
+}
+#windows_middle div{
+	display: inline;
+	font-size:20px;
+}
+#button{
+	background-color:green;
+	width:100px;
+	height:50px;
+	font-size:20px;
+	color:white;
+	margin-top:10px;
+}
+#button:hover{
+	cursor: pointer;
+}
+#backimg{
+	background:no-repeat url(图片/s7a1.jpg);
+	background-size:100% 100%;
+	height:830px;
+}
+#picture{
+	background:no-repeat url(图片/border1.jpg);
+	background-size:100% 100%;
+	height:830px;
+	width:1000px;
+	height:700px;
+	margin-top:50px;
+	display:none;
+}
